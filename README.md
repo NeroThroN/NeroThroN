@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NeroThroN
+- 👀 I’m interested in Flutter and Nuxt 3
+- 🌱 I’m currently in Henoo, a french startup that highlight heritage, events and activities with a [mobile app](https://henoo.fr/download)
