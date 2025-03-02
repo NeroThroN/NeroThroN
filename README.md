@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @NeroThroN
-- 👀 I’m interested in Flutter and Nuxt 3
-- 🌱 I’m currently in Henoo, a french startup that highlight heritage, events and activities with a [mobile app](https://henoo.fr/download)
+- 👋 Hi, I’m **@NeroThroN**
+- 📍 Based in **Nancy, France**
+- 🧑🏻‍💻 **IT engineer** since 2022
+- 👀 Passionate about the **Flutter** and **Nuxt** ecosystems
